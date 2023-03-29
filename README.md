@@ -1,0 +1,2 @@
+# flattenArr
+Created with CodeSandbox
